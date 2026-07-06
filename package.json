@@ -1,0 +1,19 @@
+{
+  "name": "urlshort",
+  "version": "1.0.0",
+  "description": "A simple, minimalistic URL shortener",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": ["url-shortener", "nodejs", "express"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/USERNAME/URLshort"
+  }
+}
